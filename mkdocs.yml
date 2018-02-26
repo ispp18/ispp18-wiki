@@ -1,21 +1,24 @@
 site_name: ISPP 18
 pages:
 - Inicio: 'index.md'
-- Trabajo: 'trabajo.md'
-- Metodología: 'metodologia.md'
-- Organización: 'organizacion.md'
-- Otros: 'otros.md'
-- Feedback: 'feedbacks.md' 
-- Feedback (Presentación): 'feedbacks/presentacion.md'
-- Feedback (Contenido): 'feedbacks/contenido.md'
-- Feedback (Negocio): 'feedbacks/negocio.md'
-- Feedback (Estilo): 'feedbacks/estilo.md'
-- Feedback (Adrenalive): 'feedbacks/adrenalive.md'
-- Feedback (ClimbCode): 'feedbacks/climbcode.md'
-- Feedback (Cocome): 'feedbacks/cocome.md'
-- Feedback (Drafter): 'feedbacks/drafter.md'
-- Feedback (Makai): 'feedbacks/makai.md'
-- Feedback (Music Players): 'feedbacks/music_players.md'
+- Feedback:
+    - 'General': 'feedbacks/general/feedbacks.md'
+    - 'Presentación': 'feedbacks/general/presentacion.md'
+    - 'Contenido': 'feedbacks/general/contenido.md'
+    - 'Negocio': 'feedbacks/general/negocio.md'
+    - 'Estilo': 'feedbacks/general/estilo.md'
+- Adrenalive: 
+    - 'Clase 1': 'feedbacks/adrenalive/clase1.md'
+- ClimbCode: 
+    - 'Clase 1': 'feedbacks/climbcode/clase1.md'
+- Cocome: 
+    - 'Clase 1': 'feedbacks/cocome/clase1.md'
+- Drafter: 
+    - 'Clase 1': 'feedbacks/drafter/clase1.md'
+- Makai: 
+    - 'Clase 1': 'feedbacks/makai/clase1.md'
+- Music Players: 
+    - 'Clase 1': 'feedbacks/music_players/clase1.md'
 theme:
     name: 'material'
 markdown_extensions:

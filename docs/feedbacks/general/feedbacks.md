@@ -4,10 +4,10 @@
 
 Desglose:
 
-* [Feedback del contenido de la presentación](/feedbacks/contenido/#clase-23022018-manana)
-* [Feedback del estilo de la presentación](/feedbacks/estilo/#clase-23022018-manana)
-* [Feedback de la idea de negocio de la presentación](/feedbacks/negocio/#clase-23022018-manana)
-* [Feedback de la presentación del portavoz/es](/feedbacks/presentacion/#clase-23022018-manana)
+* [Feedback del contenido de la presentación](/feedbacks/general/contenido/#clase-23022018-manana)
+* [Feedback del estilo de la presentación](/feedbacks/general/estilo/#clase-23022018-manana)
+* [Feedback de la idea de negocio de la presentación](/feedbacks/general/negocio/#clase-23022018-manana)
+* [Feedback de la presentación del portavoz/es](/feedbacks/general/presentacion/#clase-23022018-manana)
 
 Resumen: Las cuestiones tratadas son explicar la idea, diapositivas bien hechas (ejemplo índice ...), no explicar temas fuera de la presentación (metodología, no es el tema a tratar es explicar la idea) salvo cuando se trate todo lo necesario, presentación correcta (expresión corporal, vestimenta...), ideas concretas (explicar **bien** la idea de negocio, para esta primera no es necesaria tenerla perfecta, para dentro de 3 semanas sí), costes y presupuestos (ingresos y gastos, estimar, inversión inicial ...), encuestas son muy útil (detectar el sector de negocio, comprobar que haya negocio y saber si podrán pagar por ésta) (estar abierto a diferentes métodos de pago como publicidad, ...), todo no está inventado pero debe innovar (no sólo esta necesidad, pueden salir más en el transcurso del proyecto), identificar MVP (debe estar claro, explícitamente, mostrar casos de uso y otros añadidos (mockups)), final debe reenviar el mensaje, destacar la idea y "irse con un buen recuerdo" (gracias al público, que exista una invitación clara a preguntas).
 
