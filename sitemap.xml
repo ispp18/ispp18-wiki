@@ -4,129 +4,103 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-02-26</lastmod>
+     <lastmod>2018-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
+        
     <url>
-     <loc>/trabajo/</loc>
-     <lastmod>2018-02-26</lastmod>
+     <loc>/feedbacks/general/feedbacks/</loc>
+     <lastmod>2018-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>/feedbacks/general/presentacion/</loc>
+     <lastmod>2018-02-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/feedbacks/general/contenido/</loc>
+     <lastmod>2018-02-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/feedbacks/general/negocio/</loc>
+     <lastmod>2018-02-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/feedbacks/general/estilo/</loc>
+     <lastmod>2018-02-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
+        
     <url>
-     <loc>/metodologia/</loc>
-     <lastmod>2018-02-26</lastmod>
+     <loc>/feedbacks/adrenalive/clase1/</loc>
+     <lastmod>2018-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     
 
     
+        
     <url>
-     <loc>/organizacion/</loc>
-     <lastmod>2018-02-26</lastmod>
+     <loc>/feedbacks/climbcode/clase1/</loc>
+     <lastmod>2018-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     
 
     
+        
     <url>
-     <loc>/otros/</loc>
-     <lastmod>2018-02-26</lastmod>
+     <loc>/feedbacks/cocome/clase1/</loc>
+     <lastmod>2018-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     
 
     
+        
     <url>
-     <loc>/feedbacks/</loc>
-     <lastmod>2018-02-26</lastmod>
+     <loc>/feedbacks/drafter/clase1/</loc>
+     <lastmod>2018-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     
 
     
+        
     <url>
-     <loc>/feedbacks/presentacion/</loc>
-     <lastmod>2018-02-26</lastmod>
+     <loc>/feedbacks/makai/clase1/</loc>
+     <lastmod>2018-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     
 
     
+        
     <url>
-     <loc>/feedbacks/contenido/</loc>
-     <lastmod>2018-02-26</lastmod>
+     <loc>/feedbacks/music_players/clase1/</loc>
+     <lastmod>2018-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/negocio/</loc>
-     <lastmod>2018-02-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/estilo/</loc>
-     <lastmod>2018-02-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/adrenalive/</loc>
-     <lastmod>2018-02-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/climbcode/</loc>
-     <lastmod>2018-02-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/cocome/</loc>
-     <lastmod>2018-02-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/drafter/</loc>
-     <lastmod>2018-02-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/makai/</loc>
-     <lastmod>2018-02-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/music_players/</loc>
-     <lastmod>2018-02-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
+        
     
 
 </urlset>
