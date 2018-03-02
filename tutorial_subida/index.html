@@ -584,6 +584,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#desplegar-en-el-servidor" title="Desplegar en el servidor" class="md-nav__link">
+    Desplegar en el servidor
+  </a>
+  
+</li>
+      
       
       
       
@@ -622,6 +629,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#desplegar-en-el-servidor" title="Desplegar en el servidor" class="md-nav__link">
+    Desplegar en el servidor
+  </a>
+  
+</li>
+      
       
       
       
@@ -641,9 +655,35 @@
                 
                 <h1 id="procedimiento-para-subir-a-la-wiki">PROCEDIMIENTO PARA SUBIR A LA WIKI<a class="headerlink" href="#procedimiento-para-subir-a-la-wiki" title="Permanent link">&para;</a></h1>
 <h2 id="modificaciones-locales">Modificaciones locales<a class="headerlink" href="#modificaciones-locales" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Lo primero para empezar a </li>
-</ul>
+<p><strong>1.</strong> Lo primero para empezar a realizar los cambios es actualizarse con lo que ya hay en el servidor (<strong>rama master</strong>):</p>
+<pre><code>        $ git pull origin master
+</code></pre>
+<p><strong>2.</strong> Hacer las modificaciones oportunas y ver cambios locales con:</p>
+<pre><code>        $ mkdocs serve
+</code></pre>
+<p>y en la dirección <a href="http://127.0.0.1:8000"> <em>http://127.0.0.1:8000</em> </a></p>
+<p><strong>3.</strong> Una vez modificado añadimos los cambios que tengamos con:</p>
+<pre><code>        $ git add .
+        $ git commit -m "&lt;Comentario&gt;"
+</code></pre>
+<p><strong>4.</strong> Subimos al repositorio remoto:</p>
+<pre><code>        $ git push origin master
+</code></pre>
+<h2 id="desplegar-en-el-servidor">Desplegar en el servidor<a class="headerlink" href="#desplegar-en-el-servidor" title="Permanent link">&para;</a></h2>
+<p><strong>1.</strong> Hay dos posiblidades vamos a explicar primero una, bajarse lo último y resetear la rama <em>gh-pages</em>:</p>
+<pre><code>        $ git fech
+        $ git checkout gh-pages
+        $ git reset --hard origin/gh-pages
+        $ git pull origin gh-pages
+</code></pre>
+<p><strong>2.</strong> Volvemos a la rama <em>master</em> y desplegamos:</p>
+<pre><code>        $ git checkout master
+        $ mkdocs gh-deploy
+</code></pre>
+<p><strong>1.1</strong> Segunda forma es la siguiente, borramos la rama <em>gh-pages</em> y luego desplegamos:</p>
+<pre><code>        $ git branch -D gh-pages
+        $ mkdocs gh-deploy
+</code></pre>
                 
                   
                 
