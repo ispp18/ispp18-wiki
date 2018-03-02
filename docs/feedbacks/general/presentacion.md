@@ -21,7 +21,7 @@ Se han recopilado los siguientes feedbacks:
     * Ejercicios de presentación.
 * Para las próxima tanda de presentaciones, se ve una buena idea tener un reloj de algún tipo (para controlar el tiempo).
 
-## Clase 23/02/2018, Tarde
+### Clase 23/02/2018, Tarde
 
 * No explicar detalles ya conocidos o demasiado técnicos (generalmente no hará falta).
 * Dos o más presentadores generalmente no siempre va bien. 

@@ -10,7 +10,7 @@ Se han recopilado los siguientes feedbacks:
 * Gastos de la aplicación, presupuesto ... Se estima, recomendado.
 * Preparar el feedback de los clientes dado el MVP y las funcionalidades implementados. Tener en cuenta que puede ser cambiado.
 
-## Clase 23/02/2018, Tarde
+### Clase 23/02/2018, Tarde
 
 * Costes iniciales, presupuesto.
 * Estadisticas, datos ... Deben realizarse alguna estadística. Es requerido que haya datos respaldando la elección del negocio.

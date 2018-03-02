@@ -23,7 +23,7 @@ pages:
     - 'Clase 1': 'feedbacks/quickademy/clase1.md'
 - Weris: 
     - 'Clase 1': 'feedbacks/weris/clase1.md'
-- Subir wiki: ''
+- Subir wiki: 'tutorial_subida.md'
 theme:
     name: 'material'
 markdown_extensions:

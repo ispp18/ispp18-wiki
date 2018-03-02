@@ -13,7 +13,7 @@ Se han recopilado los siguientes feedbacks generales:
 * Consistencia en el color y tipo de la letra. Puede alterarse cuando quiera resaltarse pero no usarlo con frecuencia.
 * Índice debe incluirse, final con diapositiva, preferible con correo de consulta o parecido.
 
-## Clase 23/02/2018, Tarde
+### Clase 23/02/2018, Tarde
 
 * Numeración de la presentación.
 * PPT debe tener un estilo acorde a lo presentado.

@@ -15,7 +15,7 @@ Se han recopilado los siguientes feedbacks generales:
 * Explicar por qué el equipo es el elegido (depende del tiempo).
 * Separar ideas por diapositivas. Tener el cómo en una, por qué en otra ...
 
-## Clase 23/02/2018, Tarde
+### Clase 23/02/2018, Tarde
 
 * Metodología no hace falta, pero sí qué cosas tendrá el MVP.
 * Pros y contras no, DAFO sí.
