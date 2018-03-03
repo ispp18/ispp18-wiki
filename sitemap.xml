@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-03-02</lastmod>
+     <lastmod>2018-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,31 +13,31 @@
         
     <url>
      <loc>/feedbacks/general/feedbacks/</loc>
-     <lastmod>2018-03-02</lastmod>
+     <lastmod>2018-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/feedbacks/general/presentacion/</loc>
-     <lastmod>2018-03-02</lastmod>
+     <lastmod>2018-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/feedbacks/general/contenido/</loc>
-     <lastmod>2018-03-02</lastmod>
+     <lastmod>2018-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/feedbacks/general/negocio/</loc>
-     <lastmod>2018-03-02</lastmod>
+     <lastmod>2018-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/feedbacks/general/estilo/</loc>
-     <lastmod>2018-03-02</lastmod>
+     <lastmod>2018-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -47,7 +47,7 @@
         
     <url>
      <loc>/feedbacks/adrenalive/clase1/</loc>
-     <lastmod>2018-03-02</lastmod>
+     <lastmod>2018-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -57,7 +57,13 @@
         
     <url>
      <loc>/feedbacks/climbcode/clase1/</loc>
-     <lastmod>2018-03-02</lastmod>
+     <lastmod>2018-03-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/feedbacks/climbcode/clase2/</loc>
+     <lastmod>2018-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -67,7 +73,7 @@
         
     <url>
      <loc>/feedbacks/cocome/clase1/</loc>
-     <lastmod>2018-03-02</lastmod>
+     <lastmod>2018-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -77,7 +83,7 @@
         
     <url>
      <loc>/feedbacks/drafter/clase1/</loc>
-     <lastmod>2018-03-02</lastmod>
+     <lastmod>2018-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -87,7 +93,7 @@
         
     <url>
      <loc>/feedbacks/makai/clase1/</loc>
-     <lastmod>2018-03-02</lastmod>
+     <lastmod>2018-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -97,7 +103,7 @@
         
     <url>
      <loc>/feedbacks/music_players/clase1/</loc>
-     <lastmod>2018-03-02</lastmod>
+     <lastmod>2018-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -107,7 +113,7 @@
         
     <url>
      <loc>/feedbacks/quickademy/clase1/</loc>
-     <lastmod>2018-03-02</lastmod>
+     <lastmod>2018-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -117,7 +123,7 @@
         
     <url>
      <loc>/feedbacks/weris/clase1/</loc>
-     <lastmod>2018-03-02</lastmod>
+     <lastmod>2018-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -126,7 +132,7 @@
     
     <url>
      <loc>/tutorial_subida/</loc>
-     <lastmod>2018-03-02</lastmod>
+     <lastmod>2018-03-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
