@@ -114,7 +114,13 @@
     
         
     <url>
-     <loc>/feedbacks/music_players/clase1/</loc>
+     <loc>/feedbacks/traveliers/clase1/</loc>
+     <lastmod>2018-03-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/feedbacks/traveliers/clase2/</loc>
      <lastmod>2018-03-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
