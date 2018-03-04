@@ -16,3 +16,33 @@ Resumen: Las cuestiones tratadas son explicar la idea, diapositivas bien hechas 
 En general: **MVP** (Mockups, caso de uso estrella), **Costes**, **Sprints con todos los puntos a tratar**, Presentaciones deben ser claras, con el menos texto posible (si está, debe quedar visible desde lejos), fijar el segmento de mercado y explotarlo con sistemas monetarios eficientes y interesantes. Inicio dinámico (caso de uso o problemática ...) que permita explicar a un usuario el proyecto. Estudio de costes es **fundamental**, debe incluirse, **Sprints**, definir tecnología y sus pasos (sin mucho detalle, tenerlo claro sólo). "Plantilla de Corchu" fuera, no adaptada a móviles y un problema para trabajarla. En general, **pulir mucho modelo de negocio**. 
 
 Mejoras: En la organización de la clase, gestión del tiempo es muy mejorable (debemos definir los tiempos, temporizador, moderador, encargado...), wiki entre todos o único por grupo (subir el feedback recogido por cada grupo), **moderador** es crucial. Moderador con una guía de quién va o no y que permita presentar y tal. Como grupo es importante la base de conocimiento que debe tener, puede no ser útil o puede proveerse una. Gestión de los feedback: Repetido muchas veces, explicitar qué método usamos para resolver cierto feedback. **Informe sobre las cosas realizadas y el feedback solucionado** (por encima). Probar antes, sobretodo el grupo que lo haga (posible asignar encargado que compruebe el tema técnico). Empezar antes es una posibilidad y debe hacer un esfuerzo para mostrar el contenido mostrado en la presentación. **Silencio** o micrófono (¿podemos tenerlo?). Tener tarjetas de avisos de "5 minutos restantes" ...
+
+### Clase 02/03/2018, Tarde
+
+* Riesgos de tecnologías nuevas y manera de aprendizaje.
+* El moderador de la clase debe ser activo sin ser intrusivo.
+* La idea no es moderar al profesor.
+* Sobre el moderador, hay que buscar alguien que haga frente a toda la sesión y haga de maestro de ceremonias, que se ponga de pie, junto a los presentadores de grupo y dirija la clase y de los tiempos. Debe moderar a toda la clase.
+* Considerar la idea de un temporizador, que sea visible a todo el mundo
+* Desaprovechamos los feed backs de los profesores, hay  que reducir la presentación y aumentar el tiempo del profesor.
+* Considerar que en la primera parte hay dos profesores, y sería buena idea dar ahí mas tiempo para ellos.
+* No es buena idea lo de cambiar el timer y que vaya hacia atrás y hacia delante.
+* El moderador debe llamar a la gente 5 minutos antes de lo previsto.
+* Tener en cuenta lo que vamos a tener al final del sprint 1.
+* Muy importante: se siguen usando marcos!!!
+* Aprender de los feedbacks positivos también.
+* Lo que le presentamos al profesor en papel debe ser más esquemático, no tan largo.
+* Decir lo que llevamos gastado hasta el momento en las reuniones y estudios.
+* En las estimaciones decir la mejor, la media y la peor.En las estimaciones dej
+* Entregar en papel las mejoras de los feedbacks.
+* El moderador que diga cuánto tiempo tiene antes de empezar.
+* El entregable se cierra el dia 8 a las 00:00 de la noche.
+* Las transparencias deben contener una imagen y una línea como mucho de texto o un par de conceptos.
+* Recomienda el libro "Slide Ology" que habla sobre las presentaciones.
+* El índice no es una numeración de las transparencias, sino 5 bloques como mucho.
+* El principio debe ser la idea, y el equipo.
+* Hacer un inicio efectivo, en las preguntas, si se hacen, estar seguros que alguien va a responder, por ejemplo alguien del equipo, también se puede apoyar en noticias, datos, hacer un teatrillo, vídeo, una discusión preparada….etc
+* Dejar claro en el estudio de competidores los filtros elegidos al buscar.
+* Importante ensayar la presentación delante de los compañeros.
+
+
