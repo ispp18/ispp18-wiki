@@ -22,8 +22,9 @@ pages:
     - 'Clase 1': 'feedbacks/music_players/clase1.md'
 - Quickademy:
     - 'Clase 1': 'feedbacks/quickademy/clase1.md'
-- Weris: 
+- Weris/QRico: 
     - 'Clase 1': 'feedbacks/weris/clase1.md'
+    - 'Clase 2': 'feedbacks/weris/clase2.md'
 - Subir wiki: 'tutorial_subida.md'
 theme:
     name: 'material'
