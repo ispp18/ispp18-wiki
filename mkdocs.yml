@@ -20,8 +20,9 @@ pages:
 - Makai: 
     - 'Clase 1': 'feedbacks/makai/clase1.md'
     - 'Clase 2': 'feedbacks/makai/clase2.md'
-- Music Players: 
-    - 'Clase 1': 'feedbacks/music_players/clase1.md'
+- Traveliers: 
+    - 'Clase 1': 'feedback/traveliers/clase1.md'
+    - 'Clase 2': 'feedback/traveliers/clase2.md'
 - Quickademy:
     - 'Clase 1': 'feedbacks/quickademy/clase1.md'
 - Weris/QRico: 
