@@ -1,4 +1,4 @@
-site_name: ISPP 18
+﻿site_name: ISPP 18
 pages:
 - Inicio: 'index.md'
 - Feedback:
@@ -26,6 +26,7 @@ pages:
     - 'Clase 2': 'feedbacks/traveliers/clase2.md'
 - Quickademy:
     - 'Clase 1': 'feedbacks/quickademy/clase1.md'
+    - 'Clase 2': 'feedbacks/quickademy/clase2.md'
 - Weris/QRico: 
     - 'Clase 1': 'feedbacks/weris/clase1.md'
     - 'Clase 2': 'feedbacks/weris/clase2.md'
