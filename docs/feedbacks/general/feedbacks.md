@@ -45,4 +45,52 @@ Mejoras: En la organización de la clase, gestión del tiempo es muy mejorable (
 * Dejar claro en el estudio de competidores los filtros elegidos al buscar.
 * Importante ensayar la presentación delante de los compañeros.
 
+### Clase 09/03/2018, Tarde
+
+
+* Trabajar un poco más en el inicio efectivo aunque se nota una mejoría considerable en él. Como ejemplos se pueden usar: Pequeños teatros, Vídeos, ...
+
+* RECOMENDACIÓN: Antes de elegir un estilo de presentación, simular una prueba en clase para comprobar que se puede apreciar la letra y no contrastarse con el fondo.
+
+* Usar correctamente el rol de Ingeniero de Software.
+
+* Al comparar con los competidores, explicar el principal hecho diferenciador de la aplicación.
+
+* En el tema de las encuestas, al encuestar cuanto se está dispuesto a pagar, no incluir el 0 como cantidad.
+
+* Respetar el minimo formato de letra.
+
+* Plantear la opción de dar más tiempo en el primer ciclo de presentaciones ya que hay dos profesores( cambiar el 4-4 a un 3-5 por ejemplo).
+
+* Incluir el punto de apalancamiento en el apartado de costes y explicar cuál es para cada equipo.
+
+* Debería haber más feedback de los alumnos, tanto positivo como constructivo.
+
+* No acortar el descanso entre ciclos.
+
+* Incluir en las encuestas el rango de pagos de los usuarios.
+
+* Cuando se incluyen cifras muy grandes, sobre todo en los costes, redondear(en lugar de 30.897.23 € usar 31k €)
+
+* En casi todas las presentaciones el portavoz se ha explayado demasiado en algunos aspectos que no eran tan necesarios, corregir esto ya que así tendrá más feedback.
+
+TARJETAS AMARILLAS:
+
+* Incluir una tabla de las skills del equipo en general en cada una de las tecnologías y, a partir de ésta, argumentar los riesgos de la curva de dificultad de estas nuevas tecnologías.
+
+* A la hora de buscar competidores, especificar como se ha realizado esa búsqueda.
+
+* Ensayar la presentación con todos los miembros del equipo.
+
+PRÓXIMA PRESENTACIÓN, 1er SPRINT:
+
+* El modelo de negocio dejará de tener tanto peso, no enfocarse en él.
+
+* Especificar que ha realizado/va a realizar cada miembro del equipo en este sprint y si ha hecho lo que le corresponde.
+
+* Estado del proyecto en cuanto a costes y esfuerzos y contrastarlo con lo total planificado.
+
+* Indicar que casos de uso están hechos y cuales están en proceso(Incluir capturas de pantalla si están hechos).
+
+* Indicar que podemos ver al final del sprint.
 
