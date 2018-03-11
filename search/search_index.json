@@ -291,6 +291,16 @@
             "title": "Segunda presentaci\u00f3n. QRico:"
         }, 
         {
+            "location": "/feedbacks/weris/clase3/", 
+            "text": "Tercera presentaci\u00f3n. QRico:\n\n\n\n\n\n\nArreglar costes.\n\n\n\n\n\n\nContemplar la opci\u00f3n de que una vez que haya una nueva comanda salga una orden en una miniimpresora con los pedidos.\n\n\n\n\n\n\nComentar mejor la generaci\u00f3n del qr.\n\n\n\n\n\n\nIncluir mejor un m\u00e9todo de pago(Paypal, m\u00f3dulo de ionic).\n\n\n\n\n\n\nMejorar el comentario del servidor(Amazon LightSail).\n\n\n\n\n\n\nMejorar la presentaci\u00f3n en el tema de las encuestas, que los colores concuerden con el gr\u00e1fico de sectores.\n\n\n\n\n\n\nNo generalizar con ''ingeniero de software''.\n\n\n\n\n\n\nRedondear precios de euros en los costes.\n\n\n\n\n\n\nDificultad del cocinero de manejar la pantalla de comandas debido a que pueda tener las manos sucias para manipular cualquier dispositivo.", 
+            "title": "Clase 3"
+        }, 
+        {
+            "location": "/feedbacks/weris/clase3/#tercera-presentacion-qrico", 
+            "text": "Arreglar costes.    Contemplar la opci\u00f3n de que una vez que haya una nueva comanda salga una orden en una miniimpresora con los pedidos.    Comentar mejor la generaci\u00f3n del qr.    Incluir mejor un m\u00e9todo de pago(Paypal, m\u00f3dulo de ionic).    Mejorar el comentario del servidor(Amazon LightSail).    Mejorar la presentaci\u00f3n en el tema de las encuestas, que los colores concuerden con el gr\u00e1fico de sectores.    No generalizar con ''ingeniero de software''.    Redondear precios de euros en los costes.    Dificultad del cocinero de manejar la pantalla de comandas debido a que pueda tener las manos sucias para manipular cualquier dispositivo.", 
+            "title": "Tercera presentaci\u00f3n. QRico:"
+        }, 
+        {
             "location": "/tutorial_subida/", 
             "text": "PROCEDIMIENTO PARA SUBIR A LA WIKI\n\n\nModificaciones locales\n\n\n1.\n Lo primero para empezar a realizar los cambios es actualizarse con lo que ya hay en el servidor (\nrama master\n):\n\n\n        $ git pull origin master\n\n\n\n2.\n Hacer las modificaciones oportunas y ver cambios locales con:\n\n\n        $ mkdocs serve\n\n\n\ny en la direcci\u00f3n \n \nhttp://127.0.0.1:8000\n \n\n\n3.\n Una vez modificado a\u00f1adimos los cambios que tengamos con:\n\n\n        $ git add .\n        $ git commit -m \"\nComentario\n\"\n\n\n\n4.\n Subimos al repositorio remoto:\n\n\n        $ git push origin master\n\n\n\nDesplegar en el servidor\n\n\n1.\n Hay dos posiblidades vamos a explicar primero una, bajarse lo \u00faltimo y resetear la rama \ngh-pages\n:\n\n\n        $ git fetch\n        $ git checkout gh-pages\n        $ git reset --hard origin/gh-pages\n        $ git pull origin gh-pages\n\n\n\n2.\n Volvemos a la rama \nmaster\n y desplegamos:\n\n\n        $ git checkout master\n        $ mkdocs gh-deploy\n\n\n\n1.1\n Segunda forma es la siguiente, borramos la rama \ngh-pages\n y luego desplegamos:\n\n\n        $ git branch -D gh-pages\n        $ git fetch\n        $ mkdocs gh-deploy", 
             "title": "Subir wiki"
