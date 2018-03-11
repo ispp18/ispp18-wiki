@@ -29,6 +29,7 @@ pages:
 - Quickademy:
     - 'Clase 1': 'feedbacks/quickademy/clase1.md'
     - 'Clase 2': 'feedbacks/quickademy/clase2.md'
+    - 'Clase 3': 'feedbacks/quickademy/clase3.md'
 - Weris/QRico: 
     - 'Clase 1': 'feedbacks/weris/clase1.md'
     - 'Clase 2': 'feedbacks/weris/clase2.md'
