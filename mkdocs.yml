@@ -32,6 +32,7 @@ pages:
 - Weris/QRico: 
     - 'Clase 1': 'feedbacks/weris/clase1.md'
     - 'Clase 2': 'feedbacks/weris/clase2.md'
+    - 'Clase 3': 'feedbacks/weris/clase3.md'
 - Subir wiki: 'tutorial_subida.md'
 theme:
     name: 'material'
