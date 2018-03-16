@@ -22,3 +22,7 @@ Se han recopilado los siguientes feedbacks generales:
 * Presentación debe contener el estilo correcto y no debe ocupar parte de la pantalla.
 * Nivel informal, **Simpsons no**.
 * Disonancia entre la calidad visual y las fuentes. Fuentes básicas con fondo de presentación muy resaltado.
+
+### Clase 16/03/2018, Tarde
+
+* 

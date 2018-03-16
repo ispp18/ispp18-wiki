@@ -94,3 +94,50 @@ PRÓXIMA PRESENTACIÓN, 1er SPRINT:
 
 * Indicar que podemos ver al final del sprint.
 
+### Clase 16/03/2018, Tarde
+
+* Echarle un vistazo a Zendesk para ver ejemplos de videos.
+* Para conocer algunos consejos para presentar en público: Julian Treasure, How to Speak.
+* Realizar la siguiente encuesta si se desea: goo.gl/bcwiBG
+* Tener en cuenta los feedback de organización de la clase que los profesores proponen.
+* Volver a realizar la moderación como la semana anterior.
+* Dejar más tiempo a las conclusiones finales, 20 minutos no es suficiente.
+* En los entregables, no mezclar inglés con español en la presentación, documentación, en resumen, en cualquier documento. Preferiblemente inglés.
+* De nuevo en los entregables, identificar mejor a los grupos con el nombre del archivo, etc. Algunos no se identifican bien.
+* Hay que saber estar en una situación profesional y mostrar respeto a todo el mundo.
+	* Ser puntuales en cuanto al horario de clase.
+	* No entrar en mitad de una presentación.
+	* Si llegas tarde, esperas a que termine la presentación y entras.
+	* Si se está con el portatil, no hacer otras de otras asignaturas, jugar, etc. Hay que trabajar en la propia asignatura.
+* Las presentaciones tienen que estar enfocadas en el ámbito del proyecto. No hay que parar de trabajar en las cosas que no se vayan a presentar. 
+* Hay que dar la idea siempre, de manera breve.
+* Tener en cuenta los costes: el salario bruto no es lo mismo que el neto, además de tener en cuenta los costes sociales. En la ultima fase se debe ver reflejado ese trabajo. 
+
+PUNTOS A TENER EN CUENTA PARA PRÓXIMA PRESENTACIÓN
+
+* Mostrar demo, pero sólo de lo más interesante. Hacerla de lo que nos de el hecho diferencial.
+* URL para la aplicación.
+* Para cualquier problema que surja (tiene que existir algún problema, si no los profesores se sospecha) presentar la mejora, métrica, y ver si se ha solucionado.
+* Hay que decir por cada miembro del grupo el trabajo que se realiza, así como las horas que ha invertido y si ha cumplido o no.
+* Ser honestos con los tiempos del trabajo de los miembros del grupo.
+* Centrarse mas en las issues que en las horas. ¿Cuántas tareas se le han asignado y ha completado el miembro del grupo? Crear gráficas burndown para realizar el seguimiento de las mismas.
+* Sugerencia para las gráficas con respecto a lo anterior: combinar coste con las tareas que se van realizando.
+* No pueden existir transparencias que no se vean (letras grandes, fondos claros, etc.), si ocurre, no apto.
+* Las tarjetas amarillas para grupos en concreto, son tarjetas para todos los grupos, ya que son cosas que se suelen repetir varias veces, hay que tener en cuenta todos los feedbacks.
+* Crear un plan de pilotaje. El primer día del sprint 1 tiene  que existir un plan para poner la aplicación en un usuario real (intentar que no sean familiares). Pilotar lo antes posible.
+* No hacer tanto énfasis en el MVP. Hay que hacer énfasis en lo que vamos a realizar para cada sprint.
+* Los compañeros de clase deberían participar más. También podemos tener en cuenta ese feedback, o bien negarlo con una justificación. 
+* Hablar sobre el despliegue, tener claro donde y como se despliega. Mencionarlo en las tecnologías.
+* Mencionar brevemente la arquitectura tecnológica.
+* Hay que transformar y quitar peso a la parte del modelo del negocio y centrarse en los sprint.
+* Todo el grupo debe estar en clase (a excepción de justificacion) ya que a veces se les pide justificar algo a algún miembro del grupo y no están en clase. Si no está la persona cuando se le pregunte, es no apto para todo el grupo.
+* Unir presentación del equipo con lo que ha hecho el equipo sólo si van una cosa detrás de otra.
+* Especificar más que roles del equipo, responsabilidades.
+* Verificar la presentación contiene el feedback.
+* No decir cosas en futuro de cosas que ya han pasado.
+* En la presentación debe aparecer sí o sí: breve idea del programa; desempeño de cada miembro, que hace cada uno, metricas; estado de al situacion (coste, tiempo), demostracion de lo que se tiene, brevemente lo que se hara en el sprint 2 y 3.
+* Estudios de coste.
+* Estimaciones mejor/peor no tienen sentido en los sprint, tiene sentido en los modelos de negocio a largo plazo.
+* Justificar la diferencia de tiempo entre el trabajo de los miembros.
+* Checklist de todo lo que se hace para ver que nos esta fallando etc.
+* Team building. Planificar actividad para hacer en grupo. Hemos quedado un dia para ir a tomar una cerveza, para ir senderismo, etc. Decir cómo estamos fomentando el team building.

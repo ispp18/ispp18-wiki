@@ -32,3 +32,7 @@ Se han recopilado los siguientes feedbacks:
 * Competencia siempre hay que tenerse en cuenta.
 * También tener en cuenta los clientes potenciales, ya que puede simplemente no ser rentables.
 * Tracción, tenerla en cuenta. Hacer que el cliente venga a la aplicación, útil para arrancarla hacia adelante.
+
+### Clase 16/03/2018, Tarde
+
+* 

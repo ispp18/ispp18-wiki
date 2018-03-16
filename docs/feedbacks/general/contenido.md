@@ -36,3 +36,7 @@ Se han recopilado los siguientes feedbacks generales:
 * Metodología también, pero menos. Temas técnicos deben saltarse y no llegar a tanto.
 * Financiación, **costes**... 
 * Equipo primero y después ideas no es recomendado.
+
+### Clase 16/03/2018, Tarde
+
+* 

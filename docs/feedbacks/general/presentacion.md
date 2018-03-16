@@ -35,3 +35,7 @@ Se han recopilado los siguientes feedbacks:
 * Inercia a responder de forma rápida, no decir algo por decir. Ser prudente.
 * No explicar conceptos tratados por asignaturas o conocimiento común. Asumir que el público ya es ingeniero informático.
 * Explicar por qué se ha explicado lo anterior tampoco es lo mejor del todo (se conoce o simplemente se asume que será importante).
+
+### Clase 16/03/2018, Tarde
+
+* 
