@@ -17,4 +17,3 @@
 * En los mockups en lugar de poner texto debajo (porque no se ve) es mejor poner  "texto descriptivo" en grando y que se entienda o se explique durante la presentación lo que debería exponerse ahí
 * Añadir encuestas
 * Para la siguiente iteración se deben añadir beneficios y otros costes directos en la presentación
-* 
