@@ -1,4 +1,4 @@
-###Features
+### Sexta Presentación
 * En las diapositivas de rendimiento individual no se aprecia con claridad la diferencia entre los colores de la barra de estimado y la barra de tiempo real invertido.
 * Probar Aruba para el despliegue.
 * En las diapositivas de rendimiento, es necesario ver de forma global las desviaciones que se han producido de forma general en el grupo (Es una buena idea seguir la forma de QuickAcademy).
