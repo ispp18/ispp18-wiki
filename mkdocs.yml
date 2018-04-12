@@ -45,6 +45,9 @@ pages:
     - 'Clase 2': 'feedbacks/weris/clase2.md'
     - 'Clase 3': 'feedbacks/weris/clase3.md'
     - 'Clase 4': 'feedbacks/weris/clase4.md'
+    - 'Clase 5': 'feedbacks/weris/clase5.md'
+    - 'Clase 6': 'feedbacks/weris/clase6.md'
+   
 - Subir wiki: 'tutorial_subida.md'
 theme:
     name: 'material'
