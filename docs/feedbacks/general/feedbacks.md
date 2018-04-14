@@ -1,4 +1,4 @@
-# Feedback
+﻿# Feedback
 
 ### Clase 23/02/2018, Mañana
 
@@ -181,7 +181,18 @@ PUNTOS A TENER EN CUENTA PARA PRÓXIMA PRESENTACIÓN
 * En la hoja del informe de feedback debe aparecer el enlace o la forma de acceder a la aplicación para poder probarla.
 * El team building es algo más que cervezas, se deben planear actividades conjuntas para el grupo.
 
-
+### Clase 13/04/2018, Tarde
+* Fedbacks que se espera en el siguiente sprint:
+* Precision en problemas-metricas-solucion-resultados.
+* Hay que usar mas palabras tecnicas.
+* Pilotage en condiciones: Debera de usarlos varios usuarios.
+* Recoger informacion de los usuarios que prueben la app.
+* Los feedbacks que den los clientes debera de incorporarse en la app.
+* Preguntales a los clientes cuanto estan dispuesto a pagar. No plantear un rango, solo una pregunta abierta.
+* Los profesores van hacer preguntas en clase para saber si de verdad esta aprendiendo de la asignatura.
+* Realizar una grafica de cuanto dinero se ha estimado y de cuanto nos estamos arriesgando si estamos gastando mas de lo debido o menos.
+* Demostracion que no funcione->Sprint fallido.
+* Los profesores tomaran medidas para que los alumnos asista en clase.Aun no se sabe.
 
 
 
