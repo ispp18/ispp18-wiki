@@ -194,6 +194,26 @@ PUNTOS A TENER EN CUENTA PARA PRÓXIMA PRESENTACIÓN
 * Demostracion que no funcione->Sprint fallido.
 * Los profesores tomaran medidas para que los alumnos asista en clase.Aun no se sabe.
 
+### Clase 27/04/2018, Tarde
+* Hay que tener cuidado a la hora de mostrar las tareas que ha realizado cada integrante del grupo. Se debe mostrar las tareas concretas que ha realizado cada uno junto con el porcentaje de avance, estimación y tiempos reales invertidos en cada una de ellas para poder mostrar fácilmente en cuáles han habido problemas.
+* Al calcular la desviación de tiempo en cuanto a tareas programadas y realizadas, hay que tener en cuenta tanto el porcentaje de avance como el tiempo invertido en conjunto, no por separado mostrando una u otra métrica.
+* Si existe una gran desviación entre las horas estimadas y las reales, hay que explicar explícitamente por qué.
+* Cuidado con hacer bien las presentaciones pero no tener el MVP bien cubierto.
+* Si los profesores, al evaluar, encuentran algún fallo, es un NO APTO automático.
+* Es IMPORTANTE que se note que haya gente real utilizando la aplicación (del piloting), es decir, gente registrada, que cree eventos, etc. Se debe especificar cuántos usuarios están probándola.
+* No hay que confundir una presentación dinámica con una informal (lenguaje informal que choca al espectador, etc).
+* No mostrar imágenes de la aplicación si luego se enseñará lo mismo en la demo.
+* Da muy mala sensación que las imágenes estén cargando en la demostración porque da impresión de lentitud (proponen cachearlas).
+* Al hacer la gráfica en X, diferenciar bien las líneas con diferentes colores.
+* El sistema que esté en producción debe funcionar correctamente, estar estable y congelado. Las funciones a probar deben desplegarse en un entorno de PRE-producción.
+* Una forma interesante de medir si la solución es buena es utilizando los KPI (aunque no es necesario utilizar esta métrica).
+* Especificar el plan de captación de usuarios.
+* Hay que tener cuidado con que el MVP no sea demasiado complejo.
+* Se debe preguntar a los usuarios cuánto pagarían por usar la aplicación.
+* El equipo de testing tiene que ser responsable de que el sistema llegue al usuario con calidad.
+* Se considera FRACASO en el próximo sprint: No hay usuarios reales, no hay análisis concreto del feedback de los usuarios reales, no se ha preguntado por el precio dispuesto a pagar.
+
+
 
 
 
