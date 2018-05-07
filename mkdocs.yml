@@ -27,6 +27,13 @@ pages:
 - Cocome: 
     - 'Clase 1': 'feedbacks/cocome/clase1.md'
     - 'Clase 2': 'feedbacks/cocome/clase2.md'
+    - 'Clase 3': 'feedbacks/cocome/clase3.md'
+    - 'Clase 4': 'feedbacks/cocome/clase4.md'
+    - 'Clase 5': 'feedbacks/cocome/clase5.md'
+    - 'Clase 6': 'feedbacks/cocome/clase6.md'
+    - 'Clase 7': 'feedbacks/cocome/clase7.md'
+    - 'Clase 8': 'feedbacks/cocome/clase8.md'
+    - 'Clase 9': 'feedbacks/cocome/clase9.md'
 - Drafter: 
     - 'Clase 1': 'feedbacks/drafter/clase1.md'
     - 'Clase 2': 'feedbacks/drafter/clase2.md'
@@ -68,4 +75,4 @@ theme:
     name: 'material'
 markdown_extensions:
 - toc:
-    permalink: True
+permalink: True
