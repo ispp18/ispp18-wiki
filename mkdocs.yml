@@ -16,7 +16,9 @@ pages:
     - 'Clase 6': 'feedbacks/adrenalive/clase6.md'
     - 'Clase 7': 'feedbacks/adrenalive/clase7.md'
     - 'Clase 8': 'feedbacks/adrenalive/clase8.md'
-- ClimbCode: 
+    - 'Clase 9': 'feedbacks/adrenalive/clase9.md'
+    - 'Clase 10': 'feedbacks/adrenalive/clase10.md'
+- InteracTeach: 
     - 'Clase 1': 'feedbacks/climbcode/clase1.md'
     - 'Clase 2': 'feedbacks/climbcode/clase2.md'
     - 'Clase 3': 'feedbacks/climbcode/clase3.md'
@@ -26,6 +28,9 @@ pages:
     - 'Clase 7': 'feedbacks/climbcode/clase7.md'
     - 'Clase 8': 'feedbacks/climbcode/clase8.md'
     - 'Clase 9': 'feedbacks/climbcode/clase9.md'
+    - 'Clase 10': 'feedbacks/climbcode/clase10.md'
+    - 'Clase 11': 'feedbacks/climbcode/clase11.md'
+    - 'Clase 12': 'feedbacks/climbcode/clase12.md'
 - Cocome: 
     - 'Clase 1': 'feedbacks/cocome/clase1.md'
     - 'Clase 2': 'feedbacks/cocome/clase2.md'
@@ -48,6 +53,8 @@ pages:
     - 'Clase 6': 'feedbacks/drafter/clase6.md'
     - 'Clase 7': 'feedbacks/drafter/clase7.md'
     - 'Clase 8': 'feedbacks/drafter/clase8.md'
+    - 'Clase 9': 'feedbacks/drafter/clase9.md'
+    - 'Clase 10': 'feedbacks/drafter/clase10.md'
 - Makai: 
     - 'Clase 1': 'feedbacks/makai/clase1.md'
     - 'Clase 2': 'feedbacks/makai/clase2.md'
@@ -58,6 +65,8 @@ pages:
     - 'Clase 7': 'feedbacks/makai/clase7.md'
     - 'Clase 8': 'feedbacks/makai/clase8.md'
     - 'Clase 9': 'feedbacks/makai/clase9.md'
+    - 'Clase 10': 'feedbacks/makai/clase10.md'
+    - 'Clase 12': 'feedbacks/makai/clase12.md'
 - Traveliers: 
     - 'Clase 1': 'feedbacks/traveliers/clase1.md'
     - 'Clase 2': 'feedbacks/traveliers/clase2.md'
